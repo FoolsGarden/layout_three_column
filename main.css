@@ -16,17 +16,35 @@ header {
   text-align: center;
 }
 
-#pricing {
-  display: none;
+#pricing ul {
+
+  margin-left: 15px;
+
 }
 
-#about {
-  display: none;
+
+.pricing1 {
+
+  float: left;
+
 }
 
-#contact {
-  display: none;
+
+.pricing2 {
+
+  float: left;  
+
 }
+
+
+.pricing3 {
+
+  float: left;
+
+}
+
+
+
 
 .feature
  {
